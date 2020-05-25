@@ -1,0 +1,14 @@
+H:\univer\PJ\eUseControl\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csprojResolveAssemblyReference.cache
+H:\univer\PJ\eUseControl\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll.config
+H:\univer\PJ\eUseControl\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll
+H:\univer\PJ\eUseControl\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.pdb
+H:\univer\PJ\eUseControl\eUseControl.BusinessLogic\bin\Debug\EntityFramework.dll
+H:\univer\PJ\eUseControl\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+H:\univer\PJ\eUseControl\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll
+H:\univer\PJ\eUseControl\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.dll
+H:\univer\PJ\eUseControl\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.pdb
+H:\univer\PJ\eUseControl\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.pdb
+H:\univer\PJ\eUseControl\eUseControl.BusinessLogic\bin\Debug\EntityFramework.xml
+H:\univer\PJ\eUseControl\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+H:\univer\PJ\eUseControl\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.dll
+H:\univer\PJ\eUseControl\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.pdb
